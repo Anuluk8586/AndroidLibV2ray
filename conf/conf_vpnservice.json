@@ -48,12 +48,12 @@
     "settings": {
       "vnext": [
         {
-          "address": "-----",
-          "port": 10086,
+          "address": "35.197.140.166",
+          "port": 55182,
           "users": [
             {
-              "id": "------",
-              "alterId": 64
+              "id": "fdc3ca2a-6c17-4597-a5f1-7a5226f23662",
+              "alterId": 233
             }
           ]
         }
